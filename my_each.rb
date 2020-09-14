@@ -6,5 +6,5 @@ def my_each(input)
       x = x + 1
     end
   end
-  
+  input
 end
